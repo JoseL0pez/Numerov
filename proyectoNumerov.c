@@ -2,8 +2,6 @@
 #include <stdlib.h>
 #include <math.h>
 
-
-
 #define N 1000
 #define XMIN -5.0
 #define XMAX 5.0

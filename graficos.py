@@ -12,7 +12,6 @@ plt.rcParams.update({
     'lines.linewidth': 2
 })
 
-
 wave_color = '#2E86AB'  
 prob_color = '#5F00BA'  
 pot_color = '#353535'  
